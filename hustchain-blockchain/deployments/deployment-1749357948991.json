@@ -1,0 +1,8 @@
+{
+  "network": "sepolia",
+  "deployer": "0x68C4b7D6F5870dccA6819BedA6a70C8f2197bC97",
+  "HUSTToken": "0xb116C27668cA467a5eD8055E59F593Df35c8004F",
+  "MockUSDT": "0x46973d59a06FdbCF6d30e24A3e7A61CEbBD6fd8A",
+  "RewardSystem": "0x997374b6da0AbFA67E27A6bC5FC3Ed7238dc7F05",
+  "timestamp": "2025-06-08T04:45:48.991Z"
+}
